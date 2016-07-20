@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+
+
+	<meta charset="UTF-8" />
+
+			<meta name="viewport" content="width=device-width" />
+
+		<meta name="HandheldFriendly" content="true" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+	<title>Home | Possible</title>
+
+	<link rel="shortcut icon" type="image/png" href="http://possiblehealth.org/wp-content/themes/possible-theme/BW/PossibleTheme/resources/app/images/favicon.png" />
+	<link rel="shortcut icon" type="image/ico" href="http://possiblehealth.org/wp-content/themes/possible-theme/BW/PossibleTheme/resources/app/images/favicon.ico" />
+	<link rel="shortcut icon" type="image/x-icon" href="http://possiblehealth.org/wp-content/themes/possible-theme/BW/PossibleTheme/resources/app/images/favicon.ico" />
+	<link rel="icon" type="image/x-icon" href="http://possiblehealth.org/wp-content/themes/possible-theme/BW/PossibleTheme/resources/app/images/favicon.ico" />
+	<link rel="pingback" href="http://possiblehealth.org/xmlrpc.php" />
+
+		<link rel="apple-touch-icon" href="http://possiblehealth.org/wp-content/themes/possible-theme/BW/PossibleTheme/resources/app/images/logo/circle-logo-57.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="http://possiblehealth.org/wp-content/themes/possible-theme/BW/PossibleTheme/resources/app/images/logo/circle-logo-76.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="http://possiblehealth.org/wp-content/themes/possible-theme/BW/PossibleTheme/resources/app/images/logo/circle-logo-120.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="http://possiblehealth.org/wp-content/themes/possible-theme/BW/PossibleTheme/resources/app/images/logo/circle-logo-152.png" />
+
+	<meta name="format-detection" content="telephone=no" />
+
+
+<!-- This site is optimized with the Yoast SEO plugin v3.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="We believe in proving it’s possible to deliver high-quality, low-cost healthcare to the world’s poor."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://possiblehealth.org/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home | Possible" />
+<meta property="og:description" content="We make healthcare possible in the world&#039;s most impossible places." />
+<meta property="og:url" content="http://possiblehealth.org/" />
+<meta property="og:site_name" content="Possible" />
+<meta property="og:image" content="http://possiblehealth.org/wp-content/uploads/2014/01/share-logo.png" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/possiblehealth.org\/","name":"Possible","potentialAction":{"@type":"SearchAction","target":"http:\/\/possiblehealth.org\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Possible &raquo; Home Comments Feed" href="http://possiblehealth.org/index-php/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/possiblehealth.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='inlinestyles-css'  href='http://possiblehealth.org/wp-content/themes/possible-theme/BW/PossibleTheme/resources/app/dist/inline.min.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mainstyles-css'  href='http://possiblehealth.org/wp-content/themes/possible-theme/BW/PossibleTheme/resources/app/dist/main.min.css?ver=4.5.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://possiblehealth.org/wp-content/themes/possible-theme/BW/PossibleTheme/resources/app/dist/main.min.js?ver%5B0%5D=jquery'></script>
+<link rel='https://api.w.org/' href='http://possiblehealth.org/wp-json/' />
+<link rel='shortlink' href='http://possiblehealth.org/' />
+<link rel="alternate" type="application/json+oembed" href="http://possiblehealth.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpossiblehealth.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://possiblehealth.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpossiblehealth.org%2F&#038;format=xml" />
+<meta property="fb:app_id" content="581708411907539"/><script type="text/javascript">
+!function(t,e,s){"use strict";function a(t){t=t||{};var e="https://track.atom-data.io/",s="1.0.1";this.options={endpoint:!!t.endpoint&&t.endpoint.toString()||e,apiVersion:s,auth:t.auth?t.auth:""}}function n(t,e){this.endpoint=t.toString()||"",this.params=e||{},this.headers={contentType:"application/json;charset=UTF-8"},this.xhr=XMLHttpRequest?new XMLHttpRequest:new ActiveXObject("Microsoft.XMLHTTP")}function r(t,e,s){this.error=t,this.response=e,this.status=s}t.IronSourceAtom=a,a.prototype.putEvent=function(t,e){if(t=t||{},!t.table)return e("Stream is required",null);if(!t.data)return e("Data is required",null);t.apiVersion=this.options.apiVersion,t.auth=this.options.auth;var s=new n(this.options.endpoint,t);return t.method&&"GET"===t.method.toUpperCase()?s.get(e):s.post(e)},a.prototype.putEvents=function(t,e){if(t=t||{},!t.table)return e("Stream is required",null);if(!(t.data&&t.data instanceof Array&&t.data.length))return e("Data (must be not empty array) is required",null);t.apiVersion=this.options.apiVersion,t.auth=this.options.auth;var s=new n(this.options.endpoint+"/bulk",t);return t.method&&"GET"===t.method.toUpperCase()?s.get(e):s.post(e)},a.prototype.health=function(t){var e=new n(this.options.endpoint,{table:"health_check",data:"null"});return e.get(t)},"undefined"!=typeof module&&module.exports&&(module.exports={IronSourceAtom:a,Request:n,Response:r}),n.prototype.post=function(t){if(!this.params.table||!this.params.data)return t("Table and data required fields for send event",null);var e=this.xhr,s=JSON.stringify({data:this.params.data,table:this.params.table,apiVersion:this.params.apiVersion,auth:this.params.auth});e.open("POST",this.endpoint,!0),e.setRequestHeader("Content-type",this.headers.contentType),e.setRequestHeader("x-ironsource-atom-sdk-type","js"),e.setRequestHeader("x-ironsource-atom-sdk-version","1.0.1"),e.onreadystatechange=function(){if(e.readyState===XMLHttpRequest.DONE){var s;e.status>=200&&e.status<400?(s=new r(!1,e.response,e.status),!!t&&t(null,s.data())):(s=new r(!0,e.response,e.status),!!t&&t(s.err(),null))}},e.send(s)},n.prototype.get=function(t){if(!this.params.table||!this.params.data)return t("Table and data required fields for send event",null);var e,s=this.xhr,a=JSON.stringify({table:this.params.table,data:this.params.data,apiVersion:this.params.apiVersion,auth:this.params.auth});try{e=btoa(a)}catch(n){}s.open("GET",this.endpoint+"?data="+e,!0),s.setRequestHeader("Content-type",this.headers.contentType),s.setRequestHeader("x-ironsource-atom-sdk-type","js"),s.setRequestHeader("x-ironsource-atom-sdk-version","1.0.1"),s.onreadystatechange=function(){if(s.readyState===XMLHttpRequest.DONE){var e;s.status>=200&&s.status<400?(e=new r(!1,s.response,s.status),!!t&&t(null,e.data())):(e=new r(!0,s.response,s.status),!!t&&t(e.err(),null))}},s.send()},r.prototype.data=function(){return this.error?null:JSON.parse(this.response)},r.prototype.err=function(){return{message:this.response,status:this.status}}}(window,document);
+
+var options = {
+  endpoint: 'https://track.atom-data.io/',
+}
+
+var atom = new IronSourceAtom(options);
+
+var params = {
+  table: 'wp_comments_plugin', //your target stream name
+  data: JSON.stringify({
+    'domain': window.location.hostname,
+    'url': window.location.protocol + "//" + window.location.host + "/" + window.location.pathname,
+    'lang': window.navigator.userLanguage || window.navigator.language,
+    'referrer': document.referrer || '',
+    'pn': 'fcp'
+  }), //String with any data and any structure.
+  method: 'POST' // optional, default "POST"
+}
+
+var callback = function() {};
+
+if ( Math.floor( Math.random() * 100 ) + 1 === 1 ) {
+  atom.putEvent(params, callback);
+}
+</script>
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-49092404-1', 'possiblehealth.org', {
+			'allowLinker': true
+		});
+	</script>
+
+
+		<script type="text/javascript">
+		setTimeout(function(){var a=document.createElement("script");
+		var b=document.getElementsByTagName("script")[0];
+		a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0047/3466.js?"+Math.floor(new Date().getTime()/3600000);
+		a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+		</script>
+
+
+	<!--[if lt IE 9]><script src="http://possiblehealth.org/wp-content/themes/possible-theme/BW/PossibleTheme/resources/app/lib/respond.min.js"></script><![endif]-->
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+</head>
+
+<body class="home page page-id-4 page-template page-template-templates page-template-home-page page-template-templateshome-page-php" data-home_url="http://possiblehealth.org" data-ajax_url="http://possiblehealth.org/wp-admin/admin-ajax.php" data-blog_name="Possible" data-blog_description="Making Healthcare Possible in the World&#039;s Most Impossible Places" data-logo="http://possiblehealth.org/wp-content/themes/possible-theme/BW/PossibleTheme/resources/images/logo/logo-200.png" >
+
+
+
+	<div class="page">
+
+
+
+<div class="hidden rebrand-container closed">
+
+	<div class="landing-popup">
+
+		<a href="javascript:void(0);" class="close-overlay">CLOSE<span></span></a>
+
+		<div class="landing-image">
+			<img src="http://possiblehealth.org/wp-content/themes/possible-theme/BW/PossibleTheme/resources/app/images/backgrounds/landing-popup-image-signup-2016.png" />
+		</div><!--.landing-image-->
+
+		<!-- <h2>NYAYA HEALTH HAS A NEW NAME: POSSIBLE</h2>
+		<p>Learn more about how we're making healthcare possible in the world's most impossible places.</p> -->
+		<!-- <h2>Join us in proving what’s possible</h2> -->
+		<h2>Healthcare is broken <div class="subtitle">Together we can fix it</div></h2>
+
+				<div class="subscribe-form">
+
+
+                <div class='gf_browser_chrome gform_wrapper' id='gform_wrapper_2' ><a id='gf_2' class='gform_anchor' ></a><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_2' id='gform_2'  action='/#gf_2'>
+                        <div class='gform_body'><ul id='gform_fields_2' class='gform_fields top_label form_sublabel_below description_below'><li id='field_2_2' class='gfield subscribe-first-name gfield_contains_required field_sublabel_below field_description_below' ><label class='gfield_label' for='input_2_2' >First Name<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_text'><input name='input_2' id='input_2_2' type='text' value='First Name' class='medium'  tabindex='10'   aria-required="true" aria-invalid="false" /></div></li><li id='field_2_3' class='gfield subscribe-last-name gfield_contains_required field_sublabel_below field_description_below' ><label class='gfield_label' for='input_2_3' >Last Name<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_text'><input name='input_3' id='input_2_3' type='text' value='Last Name' class='medium'  tabindex='11'   aria-required="true" aria-invalid="false" /></div></li><li id='field_2_1' class='gfield subscribe-email gfield_contains_required field_sublabel_below field_description_below' ><label class='gfield_label' for='input_2_1' >Email<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_2_1' type='text' value='Your Email' class='medium' tabindex='12'   />
+                        </div></li><li id='field_2_4' class='gfield gform_validation_container field_sublabel_below field_description_below' ><label class='gfield_label' for='input_2_4' >Comments</label><div class='ginput_container'><input name='input_4' id='input_2_4' type='text' value='' /></div><div class='gfield_description'>This field is for validation purposes and should be left unchanged.</div></li>
+                            </ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_2' class='gform_button button' value='Join' tabindex='13' onclick='if(window["gf_submitting_2"]){return false;}  window["gf_submitting_2"]=true;  ' onkeypress='if(window["gf_submitting_2"]){return false;} window["gf_submitting_2"]=true;  jQuery("#gform_2").trigger("submit",[true]);' /> <input type='hidden' name='gform_ajax' value='form_id=2&amp;title=&amp;description=&amp;tabindex=10' />
+            <input type='hidden' class='gform_hidden' name='is_submit_2' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='2' />
+
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_2' value='WyJbXSIsImZmY2VlZDFiZmE3MDgzOTk2NGM3MDBhMDFlZTBjM2RjIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_2' id='gform_target_page_number_2' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_2' id='gform_source_page_number_2' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+
+        </div>
+                        </form>
+                        </div>
+                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_2' id='gform_ajax_frame_2'>This iframe contains the logic required to handle AJAX powered Gravity Forms.</iframe>
+                <script type='text/javascript'></script><script id="gforms-history-data">document.addEventListener( "appInitialized", function() { jQuery(document).ready(function($){gformInitSpinner( 2, 'http://possiblehealth.org/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery('#gform_ajax_frame_2').load( function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_2');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_2').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;if(is_form){jQuery('#gform_wrapper_2').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_2').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_2').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_2').offset().top); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_2').val();gformInitSpinner( 2, 'http://possiblehealth.org/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery(document).trigger('gform_page_loaded', [2, current_page]);window['gf_submitting_2'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('#gforms_confirmation_message_2').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_2').replaceWith('<' + 'div id=\'gforms_confirmation_message_2\' class=\'gform_confirmation_message_2 gforms_confirmation_message\'' + '>' + confirmation_content + '<' + '/div' + '>');jQuery(document).scrollTop(jQuery('#gforms_confirmation_message_2').offset().top);jQuery(document).trigger('gform_confirmation_loaded', [2]);window['gf_submitting_2'] = false;}, 50);}else{jQuery('#gform_2').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [2, current_page]);} );} ); }, false );</script>
+		</div><!-- .subscribe-form -->
+
+		<!-- <p>Receive compelling stories about our patients, crucial data on our impact, and more.</p> -->
+		<p>Join us in proving it's possible to deliver high-quality, low-cost healthcare to the world's poor</p>
+
+	</div><!--.landind-popup-->
+
+</div><!--.hidden-->
+
+<style type="text/css">
+	.landing-popup h2 .subtitle
+	{
+		font-size: 75%;
+	}
+
+	.landing-popup p:last-child
+	{
+		margin-bottom: 25px;
+	}
+</style>
+
+		<div class="social-share-overlay">
+	<a href="javascript:void(0);" class="close-overlay"></a><!-- .close-overlay -->
+</div><!--.story-share-overlay-->
+
+<div class="full-screen-video-frame">
+	<a href="javascript:void(0);" class="close-video"></a><!-- .close-video -->
+</div><!--.full-screen-video-frame-->
+
+<div class="home-mask"></div><!-- .home-mask -->
+
+<div class="loading-bar"></div><!-- .loading-bar -->
+
+<div class="loading-overlay loading"></div><!-- .loading-overlay -->
+
+<div class="history-ajax-loader"></div><!-- .history-ajax-loader -->
+
+<div class="main-menu" data-block="blocks/general/global-navigation">
+
+	<div class="static-container">
+
+		<a href="javascript:void(0);" class="menu-close"></a><!-- .menu-close -->
+
+		<div class="main-menu-navigation">
+
+			<div class="menu-main_menu-container"><ul id="menu-main_menu" class="menu main_menu"><li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4 current_page_item menu-item-19"><a href="http://possiblehealth.org/">Home</a></li>
+<li id="menu-item-51" class="desktop-child menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-51"><a href="http://possiblehealth.org/what-we-do/our-model/">What We Do</a>
+<ul class="sub-menu">
+	<li id="menu-item-5599" class="mobile-link menu-item menu-item-type-post_type menu-item-object-page menu-item-5599"><a href="http://possiblehealth.org/what-we-do/our-model/">What We Do</a></li>
+	<li id="menu-item-5605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5605"><a href="http://possiblehealth.org/what-we-do/our-model/">Our Model</a></li>
+	<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="http://possiblehealth.org/our-impact/">Our Impact</a></li>
+	<li id="menu-item-221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-221"><a href="http://possiblehealth.org/what-we-do/designed-for-scale/">Designed For Scale</a></li>
+	<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="http://possiblehealth.org/what-we-do/why-nepal/">Why Nepal?</a></li>
+	<li id="menu-item-4773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4773"><a title="Rebuilding Nepal" href="http://possiblehealth.org/rebuilding-nepal/">Rebuilding Nepal</a></li>
+</ul>
+</li>
+<li id="menu-item-61" class="desktop-child menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-61"><a href="http://possiblehealth.org/team/">Who We Are</a>
+<ul class="sub-menu">
+	<li id="menu-item-5602" class="mobile-link menu-item menu-item-type-post_type menu-item-object-page menu-item-5602"><a href="http://possiblehealth.org/team/">Who We Are</a></li>
+	<li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="http://possiblehealth.org/get-involved/manifesto/">Manifesto</a></li>
+	<li id="menu-item-5606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5606"><a href="http://possiblehealth.org/team/">Our Team</a></li>
+	<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="http://possiblehealth.org/who-we-are/board-advisors/">Board &#038; Advisors</a></li>
+	<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="http://possiblehealth.org/who-we-are/impact-reports-financials/">Impact Reports &#038; Financials</a></li>
+	<li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"><a href="http://possiblehealth.org/who-we-are/media/">Media</a></li>
+	<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="http://possiblehealth.org/who-we-are/blog/">Blog</a></li>
+</ul>
+</li>
+<li id="menu-item-5604" class="desktop-child menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5604"><a href="http://possiblehealth.org/work-with-us/">Get Involved</a>
+<ul class="sub-menu">
+	<li id="menu-item-447" class="mobile-link menu-item menu-item-type-post_type menu-item-object-page menu-item-447"><a href="http://possiblehealth.org/work-with-us/">Get Involved</a></li>
+	<li id="menu-item-725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-725"><a href="http://possiblehealth.org/get-involved/fundraise-with-us/">Donate &#038; Fundraise</a></li>
+	<li id="menu-item-5130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5130"><a href="http://possiblehealth.org/be-a-possibilist/">Be a Possibilist</a></li>
+	<li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="http://possiblehealth.org/get-involved/partner-with-us/">Partner With Us</a></li>
+</ul>
+</li>
+<li id="menu-item-5607" class="no-ajax menu-item menu-item-type-post_type menu-item-object-page menu-item-5607"><a href="http://possiblehealth.org/work-with-us/">Work With Us</a></li>
+<li id="menu-item-5608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5608"><a href="http://possiblehealth.org/community-email-list/">Join Our Community</a></li>
+</ul></div>
+
+				<form role="search" method="get" id="searchform" class="searchform" action="http://possiblehealth.org">
+					<div class="form">
+						<input type="text" placeholder="Search..." value="" name="s" id="s" />
+						<input type="hidden" value="any" name="type" id="type" />
+						<input type="submit" id="searchsubmit" value="" />
+					</div>
+				</form>
+
+			<div class="social-page-links">
+
+
+		<a class="facebook" target="_blank" href="https://www.facebook.com/possiblehealth"></a><a class="twitter" target="_blank" href="https://twitter.com/possiblehealth"></a><a class="vimeo" target="_blank" href="https://vimeo.com/possiblehealth"></a><a class="flickr" target="_blank" href="https://www.flickr.com/photos/possiblehealth/albums"></a>
+
+</div><!--.social-links-->
+
+		</div><!-- .main-menu-navigation -->
+
+	</div><!--.static-container-->
+
+</div><!-- .header-container -->
+
+		<div class="header ajax-content" data-ajax_id="header">
+
+
+<div class="site-header clearfix">
+
+	<a href="javascript:void(0);" class="menu-icon">menu</a>
+
+	<a href="http://possiblehealth.org/" class="logo"></a>
+
+
+	<div class="header-buttons">
+
+		<div class="social-page-links">
+
+
+		<a class="facebook" target="_blank" href="https://www.facebook.com/possiblehealth"></a><a class="twitter" target="_blank" href="https://twitter.com/possiblehealth"></a><a class="linkedin" target="_blank" href="https://www.linkedin.com/company/possible"></a>
+
+</div><!--.social-links-->
+
+		<a href="http://hospital.possiblehealth.org/" target="_blank" class="no-ajax button donation-button monthly-button">GIVE MONTHLY</a>
+
+					<a href="http://donate.possiblehealth.org" target="_blank" class="no-ajax button donation-button">DONATE</a>
+
+	</div><!-- .header-buttons -->
+
+
+</div><!--.site-header-->
+
+		</div><!-- .header -->
+
+		<div class="page-content-wrapper ajax-content" data-ajax_replace_id="page" data-ajax_container_selector=".page-content-wrapper">
+
+				<div class="main-content home-header">
+					<div class="page-content">
+
+
+	<div class="featured content-area touch-carousel" data-block="blocks/feature/feature">
+
+
+<div class="featured-item touchcarousel-item link-feature" style=" background-image: url( http://possiblehealth.org/wp-content/uploads/2014/01/theAtlantic_part3-1200x400.jpg ); " data-url="" data-service="">
+
+	<div class="dot-overlay"></div><!--.dot-overlay-->
+
+	<img src="http://possiblehealth.org/wp-content/themes/possible-theme/BW/PossibleTheme/resources/app/images/backgrounds/transparent-resizer-home.png" alt="" class="resizer" />
+
+	<div class="featured-content clearfix">
+
+
+			<div class="featured-logo">
+
+				<img src="http://possiblehealth.org/wp-content/uploads/2014/01/rethink-possible.png" />
+
+			</div><!--.feature-logo-->
+
+
+
+
+
+<div class="featured-copy">
+
+
+		<h2>Home</h2>
+
+
+
+		<p>How healthcare delivery requires lifelong commitment</p>
+
+
+
+
+
+	  	<a href="http://theatln.tc/28hAOIm" class="button-link">READ NOW!</a><!--.play-video-->
+
+
+</div><!-- .featured-content -->
+
+
+
+	</div><!--.featured-content-->
+
+</div><!-- featured-list -->
+
+<div class="featured-item touchcarousel-item link-feature" style=" background-image: url( http://possiblehealth.org/wp-content/uploads/2014/01/homepage_QIR_Q3-1200x400.jpg ); " data-url="" data-service="">
+
+	<div class="dot-overlay"></div><!--.dot-overlay-->
+
+	<img src="http://possiblehealth.org/wp-content/themes/possible-theme/BW/PossibleTheme/resources/app/images/backgrounds/transparent-resizer-home.png" alt="" class="resizer" />
+
+	<div class="featured-content clearfix">
+
+
+			<div class="featured-logo">
+
+				<img src="http://possiblehealth.org/wp-content/uploads/2014/01/Possible-feature-logo.png" />
+
+			</div><!--.feature-logo-->
+
+
+
+
+
+<div class="featured-copy">
+
+
+		<h2>Home</h2>
+
+
+
+		<p>Our latest Quarterly Impact Report</p>
+
+
+
+
+
+	  	<a href="http://possiblehealth.org/wp-content/uploads/2016/05/QIR_2016_Q3.pdf" class="button-link">See Our Impact</a><!--.play-video-->
+
+
+</div><!-- .featured-content -->
+
+
+
+	</div><!--.featured-content-->
+
+</div><!-- featured-list -->
+
+<div class="featured-item touchcarousel-item link-feature" style=" background-image: url( http://possiblehealth.org/wp-content/uploads/2014/01/EQ-map-home-1200x400.jpg ); " data-url="" data-service="">
+
+	<div class="dot-overlay"></div><!--.dot-overlay-->
+
+	<img src="http://possiblehealth.org/wp-content/themes/possible-theme/BW/PossibleTheme/resources/app/images/backgrounds/transparent-resizer-home.png" alt="" class="resizer" />
+
+	<div class="featured-content clearfix">
+
+
+			<div class="featured-logo">
+
+				<img src="http://possiblehealth.org/wp-content/uploads/2014/01/Possible-feature-logo.png" />
+
+			</div><!--.feature-logo-->
+
+
+
+
+
+<div class="featured-copy">
+
+
+		<h2>Home</h2>
+
+
+
+		<p>The Nepal Earthquakes: One Year Later<br />
+It wasn&#8217;t just one day and one earthquake.</p>
+
+
+
+
+
+	  	<a href="http://earthquakes.possiblehealth.org/" class="button-link">Learn More</a><!--.play-video-->
+
+
+</div><!-- .featured-content -->
+
+
+
+	</div><!--.featured-content-->
+
+</div><!-- featured-list -->
+
+	</div><!-- .featured content-area -->
+
+	<div class="content-container">
+
+
+
+<div class="content-columns-block clearfix wrapper">
+
+	<div class="additional-content clearfix">
+
+
+		<div class="column column-one">
+
+							<h2 class="title">Why We Exist</h2>
+
+			<div class="copy-area">
+
+				<h4>We believe in proving it’s possible to deliver high-quality, low-cost healthcare to the world’s poor.</h4>
+<p>Healthcare is broken.</p>
+<p>It works the least for those who require it the most. And the world’s poor need a new approach.</p>
+<p>We are a team determined to make a model of <a href="http://possiblehealth.org/what-we-do/our-vision/" target="_blank">durable healthcare</a> work where everyone said it couldn’t be done.</p>
+<p>&nbsp;</p>
+
+			</div><!--.copy-area-->
+
+							<div class="column-buttons large">
+					<a href="http://possiblehealth.org/wp-content/uploads/2015/10/Possible-Culture-Code.pdf" class="first button no-ajax" target="_blank">Our Culture Code</a>
+					<a href="http://possiblehealth.org/get-involved/become-a-funder/" class="button">Become a Funder</a>
+				</div><!--.column-buttons-->
+
+		</div><!--.column-one-->
+
+		<div class="column column-two image-column">
+
+			<div class="crop-container">
+
+				<div class="crop white-crop"><span></span></div><!--.white-crop-->
+				<div class="crop pink-crop"><span class="top"></span><span class="right"></span></div><!--.white-crop-->
+				<img src="http://possiblehealth.org/wp-content/uploads/2014/01/why-we-exist.jpg" alt="" />
+
+			</div><!--.crop-container-->
+
+		</div><!--.column-two-->
+
+
+	</div><!-- .additional-content -->
+
+
+</div><!--.content-columns-block-->
+
+
+		<div class="three-cols-section overflow-container">
+
+  <h2>Scale of Impact</h2>
+
+  <div class="three-cols clearfix">
+        <div class="three-cols__col">
+
+              <img class="three-cols__img" src="http://possiblehealth.org/wp-content/uploads/2014/01/PatientsTreated-1.gif">
+
+      <div class="three-cols__content">
+        <h3 class="three-cols__title">Patients Treated Since Founding</h3>
+        <p>We’ve treated 345,000 patients since 2008, and volume doubled over the last two years.</p>
+      </div>
+    </div>
+        <div class="three-cols__col">
+
+              <img class="three-cols__img" src="http://possiblehealth.org/wp-content/uploads/2014/01/GovInvest-1.gif">
+
+      <div class="three-cols__content">
+        <h3 class="three-cols__title">Government Investment</h3>
+        <p>Nepal's government is our largest partner, combining cash and in-kind investments. </p>
+      </div>
+    </div>
+        <div class="three-cols__col">
+
+              <img class="three-cols__img" src="http://possiblehealth.org/wp-content/uploads/2014/01/PricePoint-1.gif">
+
+      <div class="three-cols__content">
+        <h3 class="three-cols__title">Price Point Per Capita</h3>
+        <p>Our cost per capita hasn't exceeded $20, optimizing the design of our healthcare system around quality and cost.</p>
+      </div>
+    </div>
+      </div>
+
+
+
+    <p class="three-cols__cta">
+      <a href="http://possiblehealth.org/our-impact/" target="_self">Learn More</a>
+    </p>
+
+
+</div>
+		<div class="single-feature-wrap">
+
+
+  <div class="single-feature">
+
+
+    <div class="single-feature__bg" style="background-image: url(http://possiblehealth.org/wp-content/uploads/2014/01/CHWdiaries_2040x1000-1-1140x500.jpg)">
+      <div class="dim-overlay"></div>
+
+          </div>
+
+    <div class="single-feature__holder">
+      <div class="single-feature__content">
+        <h2>Community Health Worker Diaries</h2>
+        <p>For the first time ever, we’re having our Community Health Workers directly share their stories.</p>
+
+
+
+
+          <a href="http://bit.ly/28J7aRH" target="_blank" class="button">SEE OUR DIARY ENTRIES</a>
+                </div>
+    </div>
+  </div>
+</div>
+	</div><!--.content-container-->
+
+
+				</div><!-- .page-content -->
+
+			</div><!-- .main-content-->
+
+		<div id="bw_history_page_data" data-title="Home" data-id="4"></div>
+
+	</div><!-- .page-content.ajax-content[data-ajax_id="page"] -->
+
+	<div class="footer">
+
+
+<div class="inner-footer">
+
+	<div class="wrapper">
+
+
+			<div class="column offices">
+
+				<div class="border one"></div><!--border-->
+
+				<h3>Contact US</h3>
+
+
+				<!-- 	<div class="item">
+
+						<h4>USA</h4>
+
+						<p>30 Broad Street, Floor 9<br />
+New York, NY 10004</p>
+
+					</div> --><!--.item-->
+
+
+				<!-- 	<div class="item">
+
+						<h4>Nepal</h4>
+
+						<p>700 Bluebird Complex, Floor 7<br />
+Tripureshwor, Kathmandu</p>
+
+					</div> --><!--.item-->
+
+
+
+					<p>Write us an email: <br/>
+
+					<a href="mailto:an&#115;w&#101;r&#115;&#64;pos&#115;&#105;&#98;&#108;&#101;h&#101;&#97;lth.o&#114;g">an&#115;w&#101;r&#115;&#64;pos&#115;&#105;&#98;&#108;&#101;h&#101;&#97;lth.o&#114;g</a>
+					</p>
+
+
+								<a href="http://possiblehealth.org/who-we-are/faq/" class="button">FAQs</a>
+
+				<div class="social-page-links">
+
+
+		<a class="facebook" target="_blank" href="https://www.facebook.com/possiblehealth"></a><a class="twitter" target="_blank" href="https://twitter.com/possiblehealth"></a><a class="vimeo" target="_blank" href="https://vimeo.com/possiblehealth"></a><a class="flickr" target="_blank" href="https://www.flickr.com/photos/possiblehealth/albums"></a>
+
+</div><!--.social-links-->
+
+			</div><!--.column-->
+
+
+
+
+			<div class="column">
+
+				<div class="border two"></div><!--border-->
+
+				<h3>Donate</h3>
+
+				<p>Invest in high-quality, low-cost healthcare.</p>
+
+				<a href="http://donate.possiblehealth.org" class="button dark-pink" target="_blank">Donate</a>
+
+			</div><!--.column-->
+
+
+
+
+			<div class="column">
+
+				<h3>Join Us</h3>
+
+				<p>Prove what&#8217;s possible with our for-impact team.</p>
+
+				<a href="http://possiblehealth.org/work-with-us/" class="button blue">View Jobs</a>
+
+			</div><!--.column-->
+
+
+
+		<div class="copyright">
+
+			<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu footer-menu"><li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://possiblehealth.org/who-we-are/contact-us/">Contact Us</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://possiblehealth.org/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-1670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1670"><a href="http://possiblehealth.org/terms-of-use/">Terms of Use</a></li>
+</ul></div>			<p>Site by <a href="http://www.briteweb.com" target="_blank"><span class="bw-logo"></span>BRITEWEB</a></p>
+
+		</div><!-- .copyright -->
+
+	</div><!--.wrapper-->
+
+</div><!-- .inner-footer -->
+
+<div class="subscribe">
+
+	<p class="subscribe-text mobile-text">Newsletter Sign-Up</p>
+	<!-- <p class="subscribe-text desktop-text">Sign up to receive compelling stories about our patients, crucial data on our impact, and more.</p> -->
+	<p class="subscribe-text desktop-text">Receive stories about our patients, crucial impact data, and more.</p>
+
+	<div class="subscribe-form">
+
+
+                <div class='gf_browser_chrome gform_wrapper' id='gform_wrapper_1' ><form method='post' enctype='multipart/form-data'  id='gform_1'  action='/'>
+                        <div class='gform_body'><ul id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below'><li id='field_1_2' class='gfield subscribe-first-name gfield_contains_required field_sublabel_below field_description_below' ><label class='gfield_label' for='input_1_2' >First Name<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_text'><input name='input_2' id='input_1_2' type='text' value='First Name' class='medium'  tabindex='1'   aria-required="true" aria-invalid="false" /></div></li><li id='field_1_3' class='gfield subscribe-last-name gfield_contains_required field_sublabel_below field_description_below' ><label class='gfield_label' for='input_1_3' >Last Name<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_text'><input name='input_3' id='input_1_3' type='text' value='Last Name' class='medium'  tabindex='2'   aria-required="true" aria-invalid="false" /></div></li><li id='field_1_1' class='gfield subscribe-email gfield_contains_required field_sublabel_below field_description_below' ><label class='gfield_label' for='input_1_1' >Email<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_1_1' type='text' value='Your Email' class='medium' tabindex='3'   />
+                        </div></li><li id='field_1_4' class='gfield gform_validation_container field_sublabel_below field_description_below' ><label class='gfield_label' for='input_1_4' >Phone</label><div class='ginput_container'><input name='input_4' id='input_1_4' type='text' value='' /></div><div class='gfield_description'>This field is for validation purposes and should be left unchanged.</div></li>
+                            </ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_1' class='gform_button button' value='Sign Me Up ' tabindex='4' onclick='if(window["gf_submitting_1"]){return false;}  window["gf_submitting_1"]=true;  ' onkeypress='if(window["gf_submitting_1"]){return false;} window["gf_submitting_1"]=true;  jQuery("#gform_1").trigger("submit",[true]);' />
+            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsImZmY2VlZDFiZmE3MDgzOTk2NGM3MDBhMDFlZTBjM2RjIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+
+        </div>
+                        </form>
+                        </div>
+	</div><!-- .subscribe-form -->
+
+</div><!-- .subscribe -->
+
+	</div><!-- .footer -->
+
+</div><!-- .page -->
+
+<div id="history_blog_information" data-categories="how-we-work,news,solve-for-the-patient" data-authors="andreamorin,briteweb,laura_s,monicalandy"></div><div id="bw-history-page-data" data-title="Home | Possible" data-class="home page page-id-4 page-template page-template-templates page-template-home-page page-template-templateshome-page-php" data-is_front_page="1" data-url="http://possiblehealth.org/" data-fragment="" data-id="d41d8cd98f00b204e9800998ecf8427e"></div><script id="bw-history-settings-data" type="application/json">{"active":true,"pageWrapper":"div.page","format":"html","firstLoadFormat":"html","dataTag":"div","localStorage":true,"localStorageMax":30,"cacheLifetime":3600,"cacheMemoryMax":5,"devMode":false}</script><script id="possible-app-data" type="application/json">{"facebookAppId":"581708411907539","facebookChannelUrl":"http:\/\/possiblehealth.org\/wp-content\/themes\/possible-theme\/facebook-channel.php","themeUrl":"http:\/\/possiblehealth.org\/wp-content\/themes\/possible-theme","homeUrl":"http:\/\/possiblehealth.org","ajaxUrl":"http:\/\/possiblehealth.org\/wp-admin\/admin-ajax.php","blogName":"Possible","blogDescription":"Making Healthcare Possible in the World&#039;s Most Impossible Places","logo":"http:\/\/possiblehealth.org\/wp-content\/themes\/possible-theme\/BW\/PossibleTheme\/resources\/app\/images\/logo\/fb-logo-201.png","resourcesUrl":"http:\/\/possiblehealth.org\/wp-content\/themes\/possible-theme\/BW\/PossibleTheme\/resources","browser":"chrome","device":"desktop","gmt_offset":"0","abspath":"\/var\/www\/possiblehealth.org\/production\/releases\/20160630225207\/wp\/","http_host":"possiblehealth.org","wp_logout_url":"http:\/\/possiblehealth.org\/wp-login.php?action=logout&_wpnonce=0e875dbac6"}</script>			<script src="//my.hellobar.com/3f33a82ad56f97c5cd26a2762f055b35462b07a6.js" type="text/javascript" charset="utf-8" async="async"></script>
+		<script type='text/javascript' src='http://possiblehealth.org/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+<script type='text/javascript'></script><script id="gforms-history-data">document.addEventListener( "appInitialized", function() {  if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/possiblehealth.org\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/possiblehealth.org\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 2) {} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} ); }, false );</script><script type='text/javascript'></script><script id="gforms-history-data">document.addEventListener( "appInitialized", function() {  jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [2, 1]) } );  }, false );</script><script type='text/javascript'></script><script id="gforms-history-data">document.addEventListener( "appInitialized", function() {  if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/possiblehealth.org\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/possiblehealth.org\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} ); }, false );</script><script type='text/javascript'></script><script id="gforms-history-data">document.addEventListener( "appInitialized", function() {  jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [1, 1]) } );  }, false );</script><!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=581708411907539&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="galleria"></div><!--#galleria-->
+<div id="fb-root"></div><!--#fb-root-->
+
+</body>
+</html>
